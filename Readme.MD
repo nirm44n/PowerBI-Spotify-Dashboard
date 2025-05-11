@@ -13,10 +13,10 @@ This project visualizes my **Spotify listening history** using a **Power BI dash
 
 ## 🎥 Demo Video & Screenshots
 
-### Demo Video (Youtube)
-<a href="https://youtu.be/yJ1y0TG4-Lk">
+### Demo Video (Youtube) <a href="https://youtu.be/yJ1y0TG4-Lk">
   <img src="./screenshots/play-button.png" alt="Watch the Demo" width="50" />
 </a>
+
 
 ### Albums, Artists, Songs Overview
 
