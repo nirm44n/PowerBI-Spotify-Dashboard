@@ -69,12 +69,6 @@ This project visualizes my **Spotify listening history** using a **Power BI dash
 
 ---
 
-## ⭐ Demo
-
-Check out the live dashboard walkthrough 👉 **[Coming Soon / Optional GitHub Pages or Video link]**
-
----
-
 ## 📬 Contact
 
 If you’re interested in building something similar or want the template:
