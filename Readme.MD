@@ -11,15 +11,12 @@ This project visualizes my **Spotify listening history** using a **Power BI dash
 ✅ Track frequency heatmap by hour and weekday  
 ✅ Listening behavior by average playtime and frequency
 
-## 🎥 Demo Video
+## 🎥 Demo Video & Screenshots
 
+### Demo Video (Youtube)
 <a href="https://youtu.be/yJ1y0TG4-Lk">
-  <img src="./screenshots/play-button.png" alt="Watch the Demo" width="150" />
+  <img src="./screenshots/play-button.png" alt="Watch the Demo" width="100" />
 </a>
-
----
-
-## 🔥 Screenshots
 
 ### Albums, Artists, Songs Overview
 
